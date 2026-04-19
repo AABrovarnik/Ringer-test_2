@@ -1,0 +1,6 @@
+{
+  "name": "AI Call Analyzer",
+  "description": "AI-powered application for analyzing audio calls and transcripts. Upload recordings or paste text to receive structured insights based on custom criteria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
